@@ -2,6 +2,8 @@ Pizza dough
 
 # Pizza dough
 
+Makes 1 pizza
+
 ## Ingredients
  - 2-21/3 cups all-purpose flour OR bread flour* divided (250-295g)
  - 1 packet instant yeast (2 1/4 teaspoon)
